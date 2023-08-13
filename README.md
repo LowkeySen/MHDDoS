@@ -15,7 +15,7 @@
 <!-- <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
 <p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p> -->
 
-## Features And Methods
+## Features And Methods 
 
  * 💣 Layer7
 
@@ -77,7 +77,7 @@ python3 start.py tools
   * 📍  TSSRV | TeamSpeak SRV Resolver
   * ⚠  PING | PING Servers
   * 📌 CHECK | Check If Websites Status
-  * 😎 DSTAT | That Shows Bytes Received, bytes Sent and their amount
+  * 😎 DSTAT | That Shows Bytes Received, bytes Sent and their amounts
 
 * 🎩 Other
   * ❌ STOP | STOP All Attacks

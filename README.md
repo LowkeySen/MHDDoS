@@ -95,8 +95,8 @@ Our social's💻
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="96" height="96" alt="telegram" />
 </div>
 
- * [Matrix Team Telegram group](https://t.me/DD0SChat)
- * [Matrix community Telegram channel](https://t.me/MatrixORG)
+ * [Lowkey Team Telegram group](https://t.me/)
+ * [Lowkey community Telegram channel](https://t.me/)
  * [GitHub](https://github.com/LowkeySen)
 ### If u Like the project, leave a star on the repository!
 
@@ -154,11 +154,4 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 
 ---
 
-**💰 Donation Links:**
-**#### Donate Links**
-
-**<b>BTC</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>**
-**<b>ETH</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>**
-**<b>USDT TRC20</b>: <code>TNeZtxhaYYseJoUS2LWmao6cDbYciprhKz</code></br></br>**
-**<b>Toman</b>: https://idpay.ir/mh-prodev</br>**
 

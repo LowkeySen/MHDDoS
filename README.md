@@ -12,8 +12,8 @@
   
 <p align="center">Please Don't Attack websites without the owners consent.</p>
 
-<p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p>
+<!-- <p align="center"><img src="https://i.imgur.com/aNrHJcA.png" width="1078" height="433" alt="POWER"></p>
+<p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p> -->
 
 ## Features And Methods
 
@@ -140,7 +140,7 @@ You can read it from [GitHub Wiki](https://github.com/LowkeySen/MHDDoS/wiki)
 ```shell script
 https://shell.cloud.google.com/
 ```
-**Google Shell**
+**Clone and Install Script**
 
 ```cd line up
 ls
@@ -154,14 +154,6 @@ python3 start.py
 python3 start.py ovh https://exampletarget.com/ 1 1000 http.txt 61 3600
 ```
 
----
-**Clone and Install Script**
-
-```shell script
-git clone https://github.com/LowkeySen/MHDDoS.git
-cd MHDDoS
-pip install -r requirements.txt
-```
 
 
 **One-Line Installing on Fresh VPS**

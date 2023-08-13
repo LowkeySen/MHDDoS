@@ -1464,7 +1464,7 @@ class ToolsConsole:
                   ' | %s | %d Methods\n'
                   ' - All %d Methods\n'
                   '\n'
-                   'LowkeySen DDos:\n'
+                  'LowkeySen DDos:\n'
                   'Example:\n'
                   '   L7: python3 %s <method> <url> <socks_type> <threads> <proxylist> <rpc> <duration> <debug=optional>\n'
                   '   L4: python3 %s <method> <ip:port> <threads> <duration>\n'

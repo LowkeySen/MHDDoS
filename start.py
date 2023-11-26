@@ -105,7 +105,6 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-
 def exit(*message):
     if message:
         logger.error(bcolors.FAIL + " ".join(message) + bcolors.RESET)

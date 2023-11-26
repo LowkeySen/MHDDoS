@@ -127,7 +127,7 @@ You can download it from [GitHub Releases](https://github.com/LowkeySen/MHDDoS/r
 
 **Tutorial**
 
-* Aparat : https://aparat.com/v/XPn5Z
+
 * YouTube : Coming soon...
 ---
 

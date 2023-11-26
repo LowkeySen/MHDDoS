@@ -120,13 +120,6 @@ You can download it from [GitHub Releases](https://github.com/LowkeySen/MHDDoS/r
 * [yarl](https://github.com/aio-libs/yarl)
 ---
 
-**Videos**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon...
-
-**Tutorial**
-
 
 * YouTube : Coming soon...
 ---
